@@ -1,0 +1,10 @@
+Indexes in the testing dataset of the example items shown in the report:
+
+first batch, index 8 (Tumor)
+thrid batch, index 3 (Stroma)
+fifth batch, index 0 (Complex)
+seventh batch, index 0 (Lympho)
+ninth batch, index 0 (Debris)
+eleventh batch, index 1 (Mucosa)
+thirteenth batch, index 0 (Adiopse)
+fifteenth batch, index 2 (Empty)
