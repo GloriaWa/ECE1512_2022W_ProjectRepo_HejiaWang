@@ -3,7 +3,7 @@ Visual Interpretation of Convolutional Neural Networks
   
   
   
-`**In the Project A folder:**  `
+**`In the Project A folder:  `**
 
 * The notebooks MNIST1D_Gloria.ipynb and HMT_Gloria.ipynb contain the code written for this project.  
   
