@@ -1,0 +1,15 @@
+Indexes in the testing dataset of the example items shown in the report:
+
+637 (digit 0)
+775 (digit 1)
+806 (digit 2)
+380 (digit 3)
+501 (digit 4)
+860 (digit 5)
+522 (digit 6)
+888 (digit 7)
+293 (digit 8)
+774 (digit 9)
+
+205 (digit 4, predicted as digit 9)
+409 (digit 9, predicted as digit 4)
