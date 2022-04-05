@@ -1,9 +1,8 @@
 # ECE1512_2022W_ProjectRepo_HejiaWang
-Visual Interpretation of Convolutional Neural Networks  
-  
-  
-  
+
 **`In the Project A folder:  `**
+
+Project A: Visual Interpretation of Convolutional Neural Networks  
 
 * The notebooks MNIST1D_Gloria.ipynb and HMT_Gloria.ipynb contain the code written for this project.  
   
@@ -17,3 +16,16 @@ Visual Interpretation of Convolutional Neural Networks
 
 
 
+**`In the Project B folder:  `**
+
+Project B: Knowledge Distillation for Building Lightweight Deep Learning Models in Visual Classification Tasks
+
+* The notebooks Task1.ipynb and Task2.ipynb contain the code written for this project.
+
+* The notebooks Task2_normal_train_for_comparison.ipynb contains the supplementary code written for Task2. This notebook is just for reference and comparison.
+
+* All of the resulting images can be found in the image folder.
+
+* Some of the trained models which are essential to be stored when implementing this project (i.e., the models need a long time to train, let Google Colab automatically store them when training is finished, and reload them for further tasks the next day...) are stored and uploaded to the model folder, for reference.
+
+* Please refer to the submitted report for detailed analysis of this project.
